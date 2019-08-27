@@ -1,24 +1,5 @@
-# README
+# vod-practice
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+以下の記事を参考にRailsプロジェクトを作成した。
+- https://qiita.com/ChaaaBooo/items/9ca71b839f29c6050ce0
+- https://qiita.com/shinkuFencer/items/3679cfd966f6a61ccd1b
