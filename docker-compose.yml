@@ -1,0 +1,10 @@
+version: '3'
+services:
+  db-matcheam:
+    image: postgres:11.1
+    environment:
+      POSTGRES_USER: vod-practice
+      POSTGRES_PASSWORD: abcdefg
+      POSTGRES_DB: vod-practice
+    ports:
+    - "15432:5432"

@@ -23,7 +23,11 @@ default: &default
 
 development:
   <<: *default
-  database: vod-practice_development
+  database: vod-practice
+  username: vod-practice
+  password: abcdefg
+  host: localhost
+  port: 15432
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
