@@ -14,3 +14,6 @@ https://qiita.com/Yohei_Shiina/items/b6cbd05296c4e016705f
 
 - 使い方
 https://qiita.com/tedkuma/items/67876e6be3369b0e730c
+
+### Rubyプラグイン入れた
+https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
