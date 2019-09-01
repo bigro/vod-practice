@@ -17,3 +17,8 @@ https://qiita.com/tedkuma/items/67876e6be3369b0e730c
 
 ### Rubyプラグイン入れた
 https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
+
+### endwise
+endを自動で書いてくれるやつ
+
+https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise
